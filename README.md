@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hsegoy21&style=flat-square&color=5a4f8a&label=visitors+at+base+camp" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hsegoy21.Hsegoy21&left_text=visitors%20at%20base%20camp&left_color=%231c1838&right_color=%235a4f8a" alt="Visitors">
   <a href="https://github.com/Hsegoy21?tab=followers"><img src="https://img.shields.io/github/followers/Hsegoy21?style=flat-square&color=5a4f8a&labelColor=1c1838&label=fellow+trekkers" alt="Followers"></a>
 </p>
 
