@@ -17,7 +17,7 @@ from pathlib import Path
 USER = "Hsegoy21"
 NAME = "Yogesh Rayamajhi"
 NAME_NE = "योगेश रायमाझी"
-ROLES = ["Full-stack developer", "Automation tinkerer", "Always building something", "Based in Nepal"]
+ROLES = ["Network &amp; security engineer", "Cybersecurity enthusiast", "Packets, ports &amp; protocols", "Based in Nepal"]
 
 ASSETS = Path(__file__).resolve().parent.parent / "assets"
 FONT = "'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
