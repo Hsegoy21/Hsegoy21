@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="100%" role="img" aria-label="Mountain ridge">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0b1022"/>
+    <stop offset=".55" stop-color="#23264a"/>
+    <stop offset="1" stop-color="#7a3f52"/>
+  </linearGradient><clipPath id="frame"><rect width="1000" height="110" rx="18"/></clipPath></defs>
+<style>.t { font: 500 15px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill:#c9cde6; } .k { letter-spacing:3px; } .ne { font-family: 'Kohinoor Devanagari', 'Nirmala UI', 'Noto Sans Devanagari', sans-serif; fill:#f5a623; }</style>
+<g clip-path="url(#frame)">
+  <rect width="1000" height="110" fill="url(#sky)"/>
+  <path d="M-20.0,73.6 L1.6,65.1 L21.4,68.1 L48.1,80.5 L78.3,81.0 L106.7,80.2 L126.9,71.0 L164.7,78.8 L188.1,65.7 L228.8,67.0 L256.4,56.6 L275.5,59.7 L300.4,78.2 L321.3,74.0 L358.8,77.3 L390.8,65.4 L417.7,67.8 L437.3,80.5 L460.2,64.3 L488.5,73.8 L520.5,70.2 L545.7,61.3 L580.5,75.7 L612.3,68.3 L651.3,63.0 L676.2,56.5 L697.0,71.1 L733.2,78.0 L762.9,81.0 L797.0,62.1 L828.7,59.2 L854.2,63.9 L886.5,66.9 L915.5,60.2 L956.1,69.7 L990.1,80.4 L1020,296 L-20,296 Z" fill="#3b3560"/>
+  <path d="M-20.0,90.0 L7.9,87.0 L24.4,94.4 L47.1,100.5 L66.5,98.1 L80.4,99.9 L104.7,98.7 L120.7,94.3 L146.6,99.5 L165.8,91.6 L191.9,87.1 L217.7,96.2 L236.4,94.8 L262.5,84.7 L276.9,97.9 L292.7,97.0 L312.4,90.9 L328.6,100.8 L347.3,94.7 L368.4,84.8 L391.4,92.2 L413.3,89.5 L426.2,85.7 L450.7,86.1 L475.4,94.3 L493.8,99.2 L516.0,99.8 L529.0,97.4 L543.6,95.2 L556.5,100.9 L570.9,99.2 L588.7,100.5 L614.7,90.5 L629.1,96.6 L646.6,94.7 L660.6,86.6 L688.5,93.0 L708.2,99.4 L721.9,95.1 L738.1,86.9 L752.7,100.5 L779.9,92.0 L794.3,91.7 L806.7,92.0 L834.3,86.3 L857.5,96.5 L875.3,98.1 L899.7,91.9 L924.2,95.3 L939.7,87.2 L967.5,86.5 L992.4,87.1 L1016.2,97.1 L1020,310 L-20,310 Z" fill="#171430"/>
+  <text class="t" x="500.0" y="40" text-anchor="middle"><tspan class="k">KEEP CLIMBING</tspan>  ·  <tspan class="ne">धन्यवाद</tspan></text>
+</g>
+</svg>
