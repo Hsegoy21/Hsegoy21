@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: redraw
+  cancel-in-progress: false
+
 jobs:
   draw:
     runs-on: ubuntu-latest
@@ -28,4 +32,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "Redraw profile art"
+          git pull --rebase -X theirs
           git push
